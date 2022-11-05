@@ -18,11 +18,11 @@ Exercícios e desafios das aulas de HTML5 e CSS3 do Curso em Vídeo
 
 * Desafio 07 - [Imagem Flexível](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo01/desafio07/)
 
-* Desafio 08 - [IDesafio de Navegação](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo01/desafio08/)
+* Desafio 08 - [Desafio de Navegação](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo01/desafio08/)
 
 * Desafio 09 - [Vídeos Legais para Assistir](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo01/desafio09/)
 
-* Desafio 10 - Desafio 10 - [Projeto Android](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo02/desafio10/)
+* Desafio 10 -[Projeto Android](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo02/desafio10/android.html)
 
 * Desafio 11 - [Desafio do Astronauta](https://vinesilva7.github.io/estudos-html-css/html-css/desafios/modulo02/desafio11/)
 
